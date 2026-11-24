@@ -29,6 +29,7 @@ This repository contains the complete technical documentation for **RydLink**, a
 | `docs/section-19-design-decisions.md` | Section 19: System-Wide Design Decisions |
 | `docs/section-20-readiness-checklist.md` | Section 20: Development Readiness Checklist |
 | `docs/database-design-document.md` | Separate Detailed Database Design Document (DDD) |
+| `docs/feature-classification.md` | Already Included and Not Yet Included Features |
 
 ## Recommended Implementation Sequence
 
